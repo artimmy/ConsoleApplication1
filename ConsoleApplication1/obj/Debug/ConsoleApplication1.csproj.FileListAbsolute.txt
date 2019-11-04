@@ -1,0 +1,15 @@
+c:\users\arthur\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Arthur\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Arthur\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Arthur\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\GeneticSharp.Domain.dll
+C:\Users\Arthur\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\GeneticSharp.Extensions.dll
+C:\Users\Arthur\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\GeneticSharp.Infrastructure.Framework.dll
+C:\Users\Arthur\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\GeneticSharp.Infrastructure.Threading.dll
+C:\Users\Arthur\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\NCalc.dll
+C:\Users\Arthur\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\SmartThreadPool.dll
+C:\Users\Arthur\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\GeneticSharp.Infrastructure.Framework.xml
+C:\Users\Arthur\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\GeneticSharp.Infrastructure.Threading.pdb
+C:\Users\Arthur\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\SmartThreadPool.pdb
+C:\Users\Arthur\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Arthur\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
